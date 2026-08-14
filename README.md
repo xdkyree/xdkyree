@@ -1,16 +1,14 @@
-## Hi there 👋
+# Maciej Lichocki
 
-<!--
-**xdkyree/xdkyree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Warsaw, Poland.
 
-Here are some ideas to get you started:
+MSc Computer Science graduate from TU Delft. Previously worked at Allseas and co-founded Uni View, where I was the sole engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/maciej-lichocki)
+
+## Activity
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=xdkyree&theme=github-compact&hide_border=true"
+/>
